@@ -13,4 +13,4 @@ Final Project for Deep Learning Special Topics class at UGA.
     DISCLAIMER:
     Currently, the models are not uploaded here due to size.
     Neither are the datasets uploaded. You will need to download the BIRDCLEF dataset from the following (download 'train_short_audio': https://www.kaggle.com/competitions/birdclef-2021/data
-    If you wish to use your own dataset, just remember to change the labels within the code. 
+    If you wish to use your own dataset, just remember to change the labels within the code. Also, you will have to change the file paths.
