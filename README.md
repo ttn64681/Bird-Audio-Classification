@@ -1,7 +1,7 @@
 # IMPORTANT
 These files may or may not be the most up-to-date version of our code. To view the latest versions, visit the following Google Colab links:
-[Hubert Colab]: https://colab.research.google.com/drive/1MTXMeaxPaH6pyvFyWEUJIp9Ta4lVsUW6?usp=sharing
-[AST Colab]: https://colab.research.google.com/drive/1QPC0QTOcTbp4ifsCV09t2mdDwklZeBzs?usp=sharing
+[Hubert Colab](https://colab.research.google.com/drive/1MTXMeaxPaH6pyvFyWEUJIp9Ta4lVsUW6?usp=sharing)
+[AST Colab](https://colab.research.google.com/drive/1QPC0QTOcTbp4ifsCV09t2mdDwklZeBzs?usp=sharing)
 
 ## Bird-Audio-Classification
 Final Project for Deep Learning Special Topics class at UGA.
